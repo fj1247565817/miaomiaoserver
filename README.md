@@ -6,8 +6,10 @@ miamiao项目的后端
 采用Express框架
 
 安装教程
-npm i
-npm start
-http://localhost:3000
+加载包 npm i
+项目运行 npm start
+项目地址 http://localhost:3000
+
 使用说明
-修改miaomiaoserver/untils/config.js 里面的Email配置，把邮箱和密钥换成自己的
+修改miaomiaoserver/untils/config.js 里面的Email配置，把邮箱和密钥换成自己的；
+数据库使用的MongoDB，数据库名miaomiao
